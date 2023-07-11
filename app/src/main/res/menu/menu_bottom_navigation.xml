@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- menu_bottom_navigation.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_mapa"
+        android:title="Mapa"
+        android:icon="@drawable/map" />
+
+    <item
+        android:id="@+id/action_restaurantes"
+        android:title="Restaurantes"
+        android:icon="@drawable/restaurant" />
+
+    <item
+        android:id="@+id/action_favoritos"
+        android:title="Favoritos"
+        android:icon="@drawable/favotite" />
+</menu>

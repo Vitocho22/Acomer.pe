@@ -1,0 +1,8 @@
+<!-- drawable.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/restaurante1" android:state_selected="true" />
+    <item android:drawable="@drawable/restaurante2" />
+    <item android:drawable="@drawable/restaurante3" />
+    <item android:drawable="@drawable/restaurante4" />
+    <item android:drawable="@drawable/restaurante5" />
+</selector>
